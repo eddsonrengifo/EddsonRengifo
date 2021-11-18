@@ -20,6 +20,8 @@
     -   An NPM Package to generate customizable fortnite components.
 -   **[Twitter-clone](https://twitter-cloned.vercel.app/)**
     -   It's a twitter clone.
+-   **[Instagram-clone](https://lnstagram-clone.vercel.app/)**
+    -   It's a instagram clone (in process).
 
 ## Github Stats
 
