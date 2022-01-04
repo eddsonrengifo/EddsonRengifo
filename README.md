@@ -6,11 +6,12 @@
     -   JavaScript and TypeScript.
     -   ReactJS.
     -   NextJS.
+    -   Mern-Stack
     -   a bit of NodeJS and GraphQL.
     -   and tools like [twin.macro](https://github.com/ben-rogerson/twin.macro) and [storybook](https://storybook.js.org).
--   🔭 I’m currently working on **MERN Applications** with NextJS.
--   🌱 I’m currently learning ExpressJS, NodeJS and MongoDB to create more complete applications.
--   🥅 2021 Goals: Become more advanced in back-end.
+-   🔭 I’m currently working on **Next.js App with Apollo Client**.
+-   🌱 I’m currently learning GraphQL, React Native and Expo.
+-   🥅 2022 Goals: Be Full-Stack.
 
 ## Projects:
 
