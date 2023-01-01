@@ -11,7 +11,7 @@
     -   and tools like [twin.macro](https://github.com/ben-rogerson/twin.macro) and [storybook](https://storybook.js.org).
 -   🔭 I’m currently working on **Next.js App with Apollo Client**.
 -   🌱 I’m currently learning GraphQL, React Native and Expo.
--   🥅 2022 Goals: Be Full-Stack.
+-   🥅 2023 Goals: Be Full-Stack.
 
 ## Projects:
 
