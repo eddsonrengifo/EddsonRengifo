@@ -25,8 +25,6 @@
     -   It's a instagram clone (in process).
 -   **[Facebook-clone](https://fazebook-clone.vercel.app/)**
     -   It's a facebook clone (in process).
--   **[Easy-Json](https://easy-json.vercel.app/)**
-    -   A simple JSON.
 
 ## Github Stats
 
@@ -34,7 +32,5 @@
 
 ## Contact me
 
--   Discord: EddsonRT#2296
--   Twitter: [@EddsonRT](https://twitter.com/eddsonrt)
 -   Linkedin: [@EddsonRT](https://www.linkedin.com/in/eddsonrt)
--   Email: eddsonrt@gmail.com
+-   Email: eddsoncontact@gmail.com
