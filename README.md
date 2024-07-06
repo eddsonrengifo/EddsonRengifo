@@ -28,7 +28,7 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=eddsonrt&show_icons=true&theme=light&count_private=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eddsonrengifo&show_icons=true&theme=light&count_private=true" alt="Github Stats"/>
 
 ## Contact me
 
