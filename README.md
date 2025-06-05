@@ -3,13 +3,13 @@
 🌐 I'm experienced with:
 
 - **Languages & Frameworks**:
-  - JavaScript, TypeScript, Node.js, ReactJS, React Native, Next.js, Express, NestJS, Sass, CSS
+  - JavaScript, TypeScript, Node.js, ReactJS, React Native, Next.js, Express, NestJS, Sass, CSS, Emotion CSS
 
 - **Libraries & Tools**:
-  - Apollo Client, GraphQL, Prisma, Axios, React Hook Form, Headless UI, Tailwind UI, Shadcn UI, SWR, Zod, TRPC, TanStack Query, Swiper
+  - Apollo Client, GraphQL, Prisma, Axios, React Hook Form, Headless UI, Tailwind UI, Shadcn UI, SWR, Zod, TRPC, TanStack Query, Swiper, Twin.macro, Lodash, React Use, React Router, Class Validator, Class Transformer
 
 - **UI/UX & CMS**:
-  - Tailwind CSS, TinaCMS, Storybook
+  - Tailwind CSS, TinaCMS, Storybook, Material UI, Shopify Polaris, Heroicons, Lucide Icons, PayloadCMS, Sanity
 
 - **Full-Stack & Architecture**:
   - MERN Stack, T3 App, TurboRepo, Nx (Monorepo)
@@ -18,10 +18,28 @@
   - NextAuth.js
 
 - **Testing & Code Quality**:
-  - Cypress, Jest, Commitlint, Prettier, ESLint
+  - Cypress, Jest, Commitlint, Prettier, ESLint, Chromatic
+
+- **Performance, SEO & Internationalization**:
+  - Next PWA, Next SEO, React-i18next, Date-fns
+
+- **Data & Charts**:
+  - Chart.js, React-chartjs-2
 
 - **Database**:
-  - PostgreSQL
+  - PostgreSQL, MongoDB
+
+- **Media & Styling**:
+  - Cloudinary, Animate.css, PostCSS
+
+- **Package Managers & Build Tools**:
+  - Yarn, PNPM, NPM, Rollup
+
+- **Deployment Platforms**:
+  - Vercel, Heroku, Render
+
+- **AI Tools**:
+  - Regularly using **ChatGPT** and **Claude** to assist with code, debugging, and learning
 
 ---
 
