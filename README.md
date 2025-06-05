@@ -13,7 +13,30 @@
 -   🌱 I’m currently learning GraphQL, React Native and Expo.
 -   🥅 2023 Goals: Be Full-Stack.
 
-## 💻 Projects
+## 🧩 Professional Projects
+
+- **[El Menú](https://elmenu.pe/)** – *Plataforma de delivery desarrollada en equipo*
+  - Web peruana para ordenar comida de manera sencilla.
+  - Participación amplia en el frontend usando **Next.js** y **Tailwind CSS**.
+  - Aportes puntuales en el backend con **GraphQL**, **NestJS** y **Prisma**.
+  - Implementación de componentes reutilizables, estructura optimizada y diseño responsive.
+
+- **[Multibash Website](https://multibash.com/)** – *Sitio web institucional de empresa*
+  - Desarrollo de casi toda la página y sus componentes principales.
+  - Uso de tecnologías modernas como **TinaCMS** (editor de contenido en tiempo real).
+  - Proyecto construido en **Next.js**, enfocado en rendimiento, edición dinámica y escalabilidad.
+
+- **[Dosis Floral](https://multibash.com/projects/dosis-floral)** – *Landing page de ecommerce floral*
+  - Proyecto completo de maquetación en **Next.js** con **Tailwind CSS**.
+  - Estructura modular, buenas prácticas y enfoque en diseño profesional.
+  - Aunque aún no se lanzó en producción, se entregó como solución lista para integrar.
+
+- **[LocalChat](https://multibash.com/projects/localchat)** – *App móvil de mensajería (proyecto interno)*
+  - Desarrollo con **React Native**, enfrentando nuevos desafíos técnicos.
+  - Resolución de problemas de navegación, hooks personalizados y manejo de estado.
+  - A pesar de no haber sido publicada, fue una experiencia clave para ampliar mis habilidades móviles.
+
+## 💻 Projects personales
 
 - **[TrackerNite](https://trackernite.com/)**  
   Fortnite cosmetics store with real-time data aggregation from Fortnite Battle Royale.
