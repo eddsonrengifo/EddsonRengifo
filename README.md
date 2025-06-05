@@ -3,44 +3,44 @@
 🌐 I'm experienced with:
 
 - **Languages & Frameworks**:
-  - JavaScript, TypeScript, Node.js, ReactJS, React Native, Next.js, Express, NestJS, Sass, CSS, Emotion CSS, styled-components
+  - JavaScript, TypeScript, Node.js, ReactJS, React Native, Next.js, Express, NestJS, Sass, CSS
 
 - **Libraries & Tools**:
-  - Apollo Client, GraphQL, Prisma, Axios, React Hook Form, Headless UI, Tailwind UI, Shadcn UI, SWR, Zod, TRPC, TanStack Table, Swiper, Twin.macro, Lodash, React Use, React Router, Class Validator, Class Transformer
+  - Apollo Client, GraphQL, Prisma, Axios, React Hook Form, Headless UI, Tailwind UI, Shadcn UI, SWR, Zod, TRPC, TanStack Table, Swiper, Radix UI, Framer Motion, Styled-Components, Emotion CSS, clsx, uuid, lodash, react-use, Notistack
 
 - **UI/UX & CMS**:
-  - Tailwind CSS, TinaCMS, Storybook, Material UI, Shopify Polaris, Heroicons, Lucide Icons, PayloadCMS, Sanity
+  - Tailwind CSS, TinaCMS, Storybook, PayloadCMS, Sanity, Material UI, Shopify Polaris
 
 - **Full-Stack & Architecture**:
-  - MERN Stack, T3 App, TurboRepo, Nx (Monorepo)
+  - MERN Stack, T3 App, TurboRepo, Nx (Monorepo), Vite, Babel, Rollup
 
 - **Auth & Security**:
-  - NextAuth.js
+  - NextAuth.js, JWT with Passport.js
 
 - **Testing & Code Quality**:
-  - Cypress, Jest, Commitlint, Prettier, ESLint, Chromatic
-
-- **Performance, SEO & Internationalization**:
-  - Next PWA, Next SEO, React-i18next, Date-fns
-
-- **Data & Charts**:
-  - Chart.js, React-chartjs-2
+  - Cypress, Jest, React Testing Library, Commitlint, Prettier, ESLint, Stylelint, Husky, Lint-Staged
 
 - **Database**:
-  - PostgreSQL, MongoDB
+  - PostgreSQL, MongoDB, Supabase
 
-- **Media & Styling**:
-  - Cloudinary, Animate.css, PostCSS
+- **i18n & Date/Time**:
+  - react-i18next, next-intl, date-fns
 
-- **Package Managers & Build Tools**:
-  - Yarn, PNPM, NPM, Rollup
+- **SEO & Performance**:
+  - Next SEO, SEO best practices, Next PWA, Dark Mode
 
-- **Deployment Platforms**:
-  - Vercel, Heroku, Render
+- **Deployment & Hosting**:
+  - Vercel, Netlify, Heroku, Render
 
-- **AI Tools**:
-  - Regularly using **ChatGPT** and **Claude** to assist with code, debugging, and learning
+- **Analytics & Monitoring**:
+  - Hotjar
 
+- **Package Managers**:
+  - Yarn, NPM, PNPM
+
+- **Others**:
+  - GitHub, GitLab, **ChatGPT** and **Claude** to assist with code, debugging, and learning
+  
 ---
 
 ## 🧩 Professional Projects
