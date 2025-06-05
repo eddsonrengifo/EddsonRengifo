@@ -13,18 +13,22 @@
 -   🌱 I’m currently learning GraphQL, React Native and Expo.
 -   🥅 2023 Goals: Be Full-Stack.
 
-## Projects:
+## 💻 Projects
 
--   **[TrackerNite](https://trackernite.com/)**
-    -   Fortnite store. All cosmetics. Name, description, joint ... as they appear in Fortnite Battle Royale.
--   **[Fortnite-components](https://www.npmjs.com/package/fortnite-components)**
-    -   An NPM Package to generate customizable fortnite components.
--   **[Twitter-clone](https://twitter-cloned.vercel.app/)**
-    -   It's a twitter clone.
--   **[Instagram-clone](https://lnstagram-clone.vercel.app/)**
-    -   It's a instagram clone (in process).
--   **[Facebook-clone](https://fazebook-clone.vercel.app/)**
-    -   It's a facebook clone (in process).
+- **[TrackerNite](https://trackernite.com/)**  
+  Fortnite cosmetics store with real-time data aggregation from Fortnite Battle Royale.
+
+- **[fortnite-components](https://www.npmjs.com/package/fortnite-components)**  
+  An NPM package for customizable Fortnite UI components.
+
+- **[Twitter Clone](https://twitter-cloned.vercel.app/)**  
+  Functional Twitter clone built with React and Next.js.
+
+- **[Instagram Clone (in progress)](https://lnstagram-clone.vercel.app/)**  
+  Instagram-like interface with React.
+
+- **[Facebook Clone (in progress)](https://fazebook-clone.vercel.app/)**  
+  Facebook-style social media app prototype.
 
 ## Github Stats
 
