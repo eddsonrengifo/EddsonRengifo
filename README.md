@@ -24,10 +24,10 @@
 - **[Twitter Clone](https://twitter-cloned.vercel.app/)**  
   Functional Twitter clone built with React and Next.js.
 
-- **[Instagram Clone (in progress)](https://lnstagram-clone.vercel.app/)**  
+- **[Instagram Clone](https://lnstagram-clone.vercel.app/)**  
   Instagram-like interface with React.
 
-- **[Facebook Clone (in progress)](https://fazebook-clone.vercel.app/)**  
+- **[Facebook Clone](https://fazebook-clone.vercel.app/)**  
   Facebook-style social media app prototype.
 
 ## Github Stats
