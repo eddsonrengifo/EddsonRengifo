@@ -1,42 +1,56 @@
 ### Hi there, I'm Eddson Rengifo 👋
 
-## I'm a Developer!
+🌐 I'm experienced with:
 
--   🌐 I'm experienced with:
-    -   JavaScript and TypeScript.
-    -   ReactJS.
-    -   NextJS.
-    -   Mern-Stack
-    -   a bit of NodeJS and GraphQL.
-    -   and tools like [twin.macro](https://github.com/ben-rogerson/twin.macro) and [storybook](https://storybook.js.org).
--   🔭 I’m currently working on **Next.js App with Apollo Client**.
--   🌱 I’m currently learning GraphQL, React Native and Expo.
--   🥅 2023 Goals: Be Full-Stack.
+- **Languages & Frameworks**:
+  - JavaScript, TypeScript, Node.js, ReactJS, React Native, Next.js, Express, NestJS, Sass, CSS
+
+- **Libraries & Tools**:
+  - Apollo Client, GraphQL, Prisma, Axios, React Hook Form, Headless UI, Tailwind UI, Shadcn UI, SWR, Zod, TRPC, TanStack Query, Swiper
+
+- **UI/UX & CMS**:
+  - Tailwind CSS, TinaCMS, Storybook
+
+- **Full-Stack & Architecture**:
+  - MERN Stack, T3 App, TurboRepo, Nx (Monorepo)
+
+- **Auth & Security**:
+  - NextAuth.js
+
+- **Testing & Code Quality**:
+  - Cypress, Jest, Commitlint, Prettier, ESLint
+
+- **Database**:
+  - PostgreSQL
+
+---
 
 ## 🧩 Professional Projects
 
-- **[El Menú](https://elmenu.pe/)** – *Plataforma de delivery desarrollada en equipo*
-  - Web peruana para ordenar comida de manera sencilla.
-  - Participación amplia en el frontend usando **Next.js** y **Tailwind CSS**.
-  - Aportes puntuales en el backend con **GraphQL**, **NestJS** y **Prisma**.
-  - Implementación de componentes reutilizables, estructura optimizada y diseño responsive.
+- **[El Menú](https://elmenu.pe/)** – *Food delivery platform built by a collaborative team*
+  - Peruvian web app for easy food ordering.
+  - Contributed extensively to the frontend using **Next.js** and **Tailwind CSS**.
+  - Occasionally collaborated on the backend with **GraphQL**, **NestJS**, and **Prisma**.
+  - Focused on reusable components, optimized structure, and responsive design.
 
-- **[Multibash Website](https://multibash.com/)** – *Sitio web institucional de empresa*
-  - Desarrollo de casi toda la página y sus componentes principales.
-  - Uso de tecnologías modernas como **TinaCMS** (editor de contenido en tiempo real).
-  - Proyecto construido en **Next.js**, enfocado en rendimiento, edición dinámica y escalabilidad.
+- **[Multibash Website](https://multibash.com/)** – *Company website*
+  - Developed most of the main pages and components.
+  - Integrated modern tools like **TinaCMS** for real-time content editing.
+  - Built with **Next.js**, focusing on performance, flexibility, and scalability.
 
-- **[Dosis Floral](https://multibash.com/projects/dosis-floral)** – *Landing page de ecommerce floral*
-  - Proyecto completo de maquetación en **Next.js** con **Tailwind CSS**.
-  - Estructura modular, buenas prácticas y enfoque en diseño profesional.
-  - Aunque aún no se lanzó en producción, se entregó como solución lista para integrar.
+- **[Dosis Floral](https://multibash.com/projects/dosis-floral)** – *Ecommerce landing page*
+  - Complete layout built with **Next.js** and **Tailwind CSS**.
+  - Followed best practices with a modular structure and clean UI.
+  - Although not yet in production, the project was delivered ready for integration.
 
-- **[LocalChat](https://multibash.com/projects/localchat)** – *App móvil de mensajería (proyecto interno)*
-  - Desarrollo con **React Native**, enfrentando nuevos desafíos técnicos.
-  - Resolución de problemas de navegación, hooks personalizados y manejo de estado.
-  - A pesar de no haber sido publicada, fue una experiencia clave para ampliar mis habilidades móviles.
+- **[LocalChat](https://multibash.com/projects/localchat)** – *Internal mobile messaging app*
+  - Developed using **React Native**, facing new technical challenges.
+  - Solved navigation issues, custom hooks, and state management.
+  - While not released, it was a key experience to expand my mobile development skills.
 
-## 💻 Projects personales
+---
+
+## 💻 Personal Projects
 
 - **[TrackerNite](https://trackernite.com/)**  
   Fortnite cosmetics store with real-time data aggregation from Fortnite Battle Royale.
@@ -48,16 +62,20 @@
   Functional Twitter clone built with React and Next.js.
 
 - **[Instagram Clone](https://lnstagram-clone.vercel.app/)**  
-  Instagram-like interface with React.
+  Instagram-style UI built with React (in progress).
 
 - **[Facebook Clone](https://fazebook-clone.vercel.app/)**  
-  Facebook-style social media app prototype.
+  Facebook-like prototype social media app (in progress).
 
-## Github Stats
+---
+
+## 📊 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=eddsonrengifo&show_icons=true&theme=light&count_private=true" alt="Github Stats"/>
 
-## Contact me
+---
 
--   Linkedin: [@EddsonRengifo](https://www.linkedin.com/in/eddsonrengifo)
--   Email: eddsonrt@gmail.com
+## 📬 Contact Me
+
+- **LinkedIn**: [@EddsonRengifo](https://www.linkedin.com/in/eddsonrengifo)  
+- **Email**: eddsonrt@gmail.com
