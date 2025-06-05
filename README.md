@@ -32,5 +32,5 @@
 
 ## Contact me
 
--   Linkedin: [@EddsonRT](https://www.linkedin.com/in/eddsonrt)
--   Email: eddsoncontact@gmail.com
+-   Linkedin: [@EddsonRengifo](https://www.linkedin.com/in/eddsonrengifo)
+-   Email: eddsonrt@gmail.com
