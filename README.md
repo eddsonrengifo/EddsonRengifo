@@ -3,10 +3,10 @@
 🌐 I'm experienced with:
 
 - **Languages & Frameworks**:
-  - JavaScript, TypeScript, Node.js, ReactJS, React Native, Next.js, Express, NestJS, Sass, CSS, Emotion CSS
+  - JavaScript, TypeScript, Node.js, ReactJS, React Native, Next.js, Express, NestJS, Sass, CSS, Emotion CSS, styled-components
 
 - **Libraries & Tools**:
-  - Apollo Client, GraphQL, Prisma, Axios, React Hook Form, Headless UI, Tailwind UI, Shadcn UI, SWR, Zod, TRPC, TanStack Query, Swiper, Twin.macro, Lodash, React Use, React Router, Class Validator, Class Transformer
+  - Apollo Client, GraphQL, Prisma, Axios, React Hook Form, Headless UI, Tailwind UI, Shadcn UI, SWR, Zod, TRPC, TanStack Table, Swiper, Twin.macro, Lodash, React Use, React Router, Class Validator, Class Transformer
 
 - **UI/UX & CMS**:
   - Tailwind CSS, TinaCMS, Storybook, Material UI, Shopify Polaris, Heroicons, Lucide Icons, PayloadCMS, Sanity
