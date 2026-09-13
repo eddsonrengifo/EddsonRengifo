@@ -1,99 +1,215 @@
-### Hi there, I'm Eddson Rengifo 👋
+# Hi there, I'm Eddson Rengifo 👋
 
-🌐 I'm experienced with:
+**Full Stack Developer | JavaScript & TypeScript**
 
-- **Languages & Frameworks**:
-  - JavaScript, TypeScript, Node.js, ReactJS, React Native, Next.js, Express, NestJS, Sass, CSS
+I'm a Full Stack Developer focused on building modern web applications, APIs, integrations, and scalable software solutions.
 
-- **Libraries & Tools**:
-  - Apollo Client, GraphQL, Prisma, Axios, React Hook Form, Headless UI, Tailwind UI, Shadcn UI, SWR, Zod, TRPC, TanStack Table, Swiper, Radix UI, Framer Motion, Styled-Components, Emotion CSS, clsx, uuid, lodash, react-use, Notistack
-
-- **UI/UX & CMS**:
-  - Tailwind CSS, TinaCMS, Storybook, PayloadCMS, Sanity, Material UI, Shopify Polaris
-
-- **Full-Stack & Architecture**:
-  - MERN Stack, T3 App, TurboRepo, Nx (Monorepo), Vite, Babel, Rollup
-
-- **Auth & Security**:
-  - NextAuth.js, JWT with Passport.js
-
-- **Testing & Code Quality**:
-  - Cypress, Jest, React Testing Library, Commitlint, Prettier, ESLint, Stylelint, Husky, Lint-Staged
-
-- **Database**:
-  - PostgreSQL, MongoDB, Supabase
-
-- **i18n & Date/Time**:
-  - react-i18next, next-intl, date-fns
-
-- **SEO & Performance**:
-  - Next SEO, SEO best practices, Next PWA, Dark Mode
-
-- **Deployment & Hosting**:
-  - Vercel, Netlify, Heroku, Render
-
-- **Analytics & Monitoring**:
-  - Hotjar
-
-- **Package Managers**:
-  - Yarn, NPM, PNPM
-
-- **Others**:
-  - GitHub, GitLab, **ChatGPT** and **Claude** to assist with code, debugging, and learning
-  
----
-
-## 🧩 Professional Projects
-
-- **[El Menú](https://elmenu.pe/)** – *Food delivery platform built by a collaborative team*
-  - Peruvian web app for easy food ordering.
-  - Contributed extensively to the frontend using **Next.js** and **Tailwind CSS**.
-  - Occasionally collaborated on the backend with **GraphQL**, **NestJS**, and **Prisma**.
-  - Focused on reusable components, optimized structure, and responsive design.
-
-- **[Multibash Website](https://multibash.com/)** – *Company website*
-  - Developed most of the main pages and components.
-  - Integrated modern tools like **TinaCMS** for real-time content editing.
-  - Built with **Next.js**, focusing on performance, flexibility, and scalability.
-
-- **[Dosis Floral](https://multibash.com/projects/dosis-floral)** – *Ecommerce landing page*
-  - Complete layout built with **Next.js** and **Tailwind CSS**.
-  - Followed best practices with a modular structure and clean UI.
-  - Although not yet in production, the project was delivered ready for integration.
-
-- **[LocalChat](https://multibash.com/projects/localchat)** – *Internal mobile messaging app*
-  - Developed using **React Native**, facing new technical challenges.
-  - Solved navigation issues, custom hooks, and state management.
-  - While not released, it was a key experience to expand my mobile development skills.
+I work primarily with **JavaScript, TypeScript, React, Next.js, Node.js, and Firebase**, with experience across frontend, backend, architecture, testing, and deployment.
 
 ---
 
-## 💻 Personal Projects
+## 🛠️ Tech Stack
 
-- **[TrackerNite](https://trackernite.com/)**  
-  Fortnite cosmetics store with real-time data aggregation from Fortnite Battle Royale.
+### Languages & Frameworks
 
-- **[fortnite-components](https://www.npmjs.com/package/fortnite-components)**  
-  An NPM package for customizable Fortnite UI components.
+- JavaScript
+- TypeScript
+- Node.js
+- React.js
+- React Native
+- Next.js
+- Express.js
+- NestJS
+- Sass
+- CSS
 
-- **[Twitter Clone](https://twitter-cloned.vercel.app/)**  
-  Functional Twitter clone built with React and Next.js.
+### Libraries & Tools
 
-- **[Instagram Clone](https://lnstagram-clone.vercel.app/)**  
-  Instagram-style UI built with React (in progress).
+- Apollo Client
+- GraphQL
+- Prisma
+- Axios
+- React Hook Form
+- Headless UI
+- Tailwind UI
+- shadcn/ui
+- SWR
+- Zod
+- tRPC
+- TanStack Table
+- Swiper
+- Radix UI
+- Framer Motion
+- Styled Components
+- Emotion CSS
+- clsx
+- uuid
+- lodash
+- react-use
+- Notistack
 
-- **[Facebook Clone](https://fazebook-clone.vercel.app/)**  
-  Facebook-like prototype social media app (in progress).
+### UI/UX & CMS
+
+- Tailwind CSS
+- Ant Design
+- TinaCMS
+- Storybook
+- PayloadCMS
+- Shopify Polaris
+- Responsive Design
+- Progressive Web Apps
+
+### Full Stack & Architecture
+
+- MERN Stack
+- T3 App
+- Clean Architecture
+- Vertical Slice Architecture
+- Modular Architecture
+- Dependency Injection
+- Monorepos
+- TurboRepo
+- Nx
+- Vite
+- Babel
+- Rollup
+
+### Backend & APIs
+
+- REST APIs
+- GraphQL
+- Apollo Server
+- Express.js
+- NestJS
+- Firebase Cloud Functions
+- OpenAPI
+- Swagger
+
+### Authentication & Security
+
+- NextAuth.js
+- JWT
+- Passport.js
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+- Supabase
+- Firebase
+- Firestore
+
+### i18n & Date/Time
+
+- react-i18next
+- next-intl
+- date-fns
+- Day.js
+
+### Testing & Code Quality
+
+- Vitest
+- Jest
+- Cypress
+- React Testing Library
+- Integration Testing
+- Commitlint
+- Prettier
+- ESLint
+- Stylelint
+- Husky
+- lint-staged
+
+### SEO & Performance
+
+- Next SEO
+- SEO best practices
+- Next PWA
+- Dark Mode
+
+### Deployment & Hosting
+
+- Firebase Hosting
+- Vercel
+- Netlify
+- Heroku
+- Render
+- GitHub Actions
+- CI/CD
+
+### Package Managers
+
+- Yarn
+- npm
+- pnpm
+
+### Analytics & Monitoring
+
+- Hotjar
+
+### AI Development Tools
+
+- Claude Code
+- ChatGPT
 
 ---
 
-## 📊 Github Stats
+## 💼 Professional Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=eddsonrengifo&show_icons=true&theme=light&count_private=true" alt="Github Stats"/>
+### TripHub
+
+Reservation and tour management platform.
+
+- Developed and evolved features for reservations, availability, travelers, payments, and operations.
+- Integrated OTA channels including **GetYourGuide** and **Viator**.
+- Developed features such as seat maps, traveler self-service, and tour management.
+- Contributed to architectural refactors, shared components, and technology migrations.
+- Worked across frontend, backend, integrations, and production deployments.
+
+### Taxi Directo
+
+Transportation reservation platform.
+
+- Developed the platform from scratch, including quotation, vehicle selection, date/time selection, and payment flows.
+- Implemented backend services and APIs integrating an external transportation provider, **Openpay**, and **Firebase**.
+- Developed an administrative panel with authentication, roles, reservation management, and operational features.
+- Refactored the project's packages using **Clean Architecture** to improve separation of responsibilities and maintainability.
+
+### El Menú
+
+Food e-commerce platform.
+
+- Contributed extensively to the frontend using **Next.js** and **Tailwind CSS**.
+- Developed reusable components to facilitate the implementation of new features.
+- Developed an administrative dashboard for restaurant and order management.
+- Worked with **GraphQL, NestJS, Prisma, and PostgreSQL**.
+
+### Multibash Website
+
+Corporate website.
+
+- Developed main pages and key reusable components.
+- Integrated **TinaCMS** for content management by non-technical users.
+- Worked on the **Nx monorepo** architecture.
+- Implemented accessibility and SEO improvements.
+- Built with **Next.js** and **Tailwind UI**.
 
 ---
 
-## 📬 Contact Me
+## 🚀 Personal Projects
 
-- **LinkedIn**: [@EddsonRengifo](https://www.linkedin.com/in/eddsonrengifo)  
-- **Email**: eddsonrt@gmail.com
+### TrackerNite
+
+Fortnite cosmetics platform with real-time data aggregation from Fortnite Battle Royale.
+
+### fortnite-components
+
+NPM package for customizable and reusable Fortnite UI components.
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/eddsonrengifo](https://www.linkedin.com/in/eddsonrengifo)
+- **Email:** eddsonrt@gmail.com
+- **GitHub:** [github.com/eddsonrengifo](https://github.com/eddsonrengifo)
