@@ -12,145 +12,55 @@ I work primarily with **JavaScript, TypeScript, React, Next.js, Node.js, and Fir
 
 ### Languages & Frameworks
 
-- JavaScript
-- TypeScript
-- Node.js
-- React.js
-- React Native
-- Next.js
-- Express.js
-- NestJS
-- Sass
-- CSS
+JavaScript · TypeScript · Node.js · React.js · React Native · Next.js · Express.js · NestJS · Sass · CSS
 
 ### Libraries & Tools
 
-- Apollo Client
-- GraphQL
-- Prisma
-- Axios
-- React Hook Form
-- Headless UI
-- Tailwind UI
-- shadcn/ui
-- SWR
-- Zod
-- tRPC
-- TanStack Table
-- Swiper
-- Radix UI
-- Framer Motion
-- Styled Components
-- Emotion CSS
-- clsx
-- uuid
-- lodash
-- react-use
-- Notistack
+Apollo Client · GraphQL · Prisma · Axios · React Hook Form · Headless UI · Tailwind UI · shadcn/ui · SWR · Zod · tRPC · TanStack Table · Swiper · Radix UI · Framer Motion · Styled Components · Emotion CSS · clsx · uuid · lodash · react-use · Notistack
 
 ### UI/UX & CMS
 
-- Tailwind CSS
-- Ant Design
-- TinaCMS
-- Storybook
-- PayloadCMS
-- Shopify Polaris
-- Responsive Design
-- Progressive Web Apps
+Tailwind CSS · Ant Design · TinaCMS · Storybook · PayloadCMS · Shopify Polaris · Responsive Design · Progressive Web Apps
 
 ### Full Stack & Architecture
 
-- MERN Stack
-- T3 App
-- Clean Architecture
-- Vertical Slice Architecture
-- Modular Architecture
-- Dependency Injection
-- Monorepos
-- TurboRepo
-- Nx
-- Vite
-- Babel
-- Rollup
+MERN Stack · T3 App · Clean Architecture · Vertical Slice Architecture · Modular Architecture · Dependency Injection · Monorepos · TurboRepo · Nx · Vite · Babel · Rollup
 
 ### Backend & APIs
 
-- REST APIs
-- GraphQL
-- Apollo Server
-- Express.js
-- NestJS
-- Firebase Cloud Functions
-- OpenAPI
-- Swagger
+REST APIs · GraphQL · Apollo Server · Express.js · NestJS · Firebase Cloud Functions · OpenAPI · Swagger
 
 ### Authentication & Security
 
-- NextAuth.js
-- JWT
-- Passport.js
+NextAuth.js · JWT · Passport.js
 
 ### Databases
 
-- PostgreSQL
-- MongoDB
-- Supabase
-- Firebase
-- Firestore
+PostgreSQL · MongoDB · Supabase · Firebase · Firestore
 
 ### i18n & Date/Time
 
-- react-i18next
-- next-intl
-- date-fns
-- Day.js
+react-i18next · next-intl · date-fns · Day.js
 
 ### Testing & Code Quality
 
-- Vitest
-- Jest
-- Cypress
-- React Testing Library
-- Integration Testing
-- Commitlint
-- Prettier
-- ESLint
-- Stylelint
-- Husky
-- lint-staged
+Vitest · Jest · Cypress · React Testing Library · Integration Testing · Commitlint · Prettier · ESLint · Stylelint · Husky · lint-staged
 
 ### SEO & Performance
 
-- Next SEO
-- SEO best practices
-- Next PWA
-- Dark Mode
+Next SEO · SEO best practices · Next PWA · Dark Mode
 
 ### Deployment & Hosting
 
-- Firebase Hosting
-- Vercel
-- Netlify
-- Heroku
-- Render
-- GitHub Actions
-- CI/CD
+Firebase Hosting · Vercel · Netlify · Heroku · Render · GitHub Actions · CI/CD
 
 ### Package Managers
 
-- Yarn
-- npm
-- pnpm
-
-### Analytics & Monitoring
-
-- Hotjar
+Yarn · npm · pnpm
 
 ### AI Development Tools
 
-- Claude Code
-- ChatGPT
+Claude Code · ChatGPT
 
 ---
 
